@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/arthur-lauxen-677178219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <div/>
   
-##
+
   
 <div>
   <a href="https://github.com/ArthurLauxen">
@@ -13,7 +13,7 @@
  </div>
   
   ##
-  Tecnologias que uso no dia a dia:
+ ### Tecnologias que uso no dia a dia:
   <div style="display: inline_block"><br>
   <img align="center" alt="Arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Arthur-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -25,7 +25,7 @@
  </div>
   
   ##
-  Tecnologias que ainda não uso, mas estudo:
+ ### Tecnologias que ainda não uso, mas estudo:
   <div style="display: inline_block"><br>
     <img align="center" alt="Arthur-Salesforce" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg">
     <img align="center" alt="Arthur-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
