@@ -13,7 +13,7 @@
  </div>
   
   ##
- ### Tecnologias que uso no dia a dia:
+ ### Tecnologias que uso e estudo no meu dia a dia:
   <div style="display: inline_block"><br>
   <img align="center" alt="Arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  
